@@ -31,6 +31,5 @@ Machine learning project for financial fraud detection.
 
 Email: ravulacharithareddy@gmail.com
 
-LinkedIn: www.linkedin.com/in/
-charitha-reddy-ravula
+LinkedIn: www.linkedin.com/in/charitha-reddy-ravula
 
