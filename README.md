@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Charitha Reddy
 
-<!--
-**ravulacharithareddy/ravulacharithareddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 Final Year Information Technology Student
+- 🌱 Learning Full Stack Development
+- 🤖 Interested in AI & Machine Learning
+- 💼 Looking for Software Developer Opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+- SQL
+- Flask
+- Git
+- GitHub
+
+## 🚀 Projects
+
+### Career Guide Web App
+AI-powered career recommendation system.
+
+### Fraud Detection & Anomaly Analysis
+Machine learning project for financial fraud detection.
+
+## 📫 Contact
+
+Email: ravulacharithareddy@gmail.com
+
+LinkedIn: www.linkedin.com/in/
+charitha-reddy-ravula
+
